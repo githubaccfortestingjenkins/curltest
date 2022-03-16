@@ -1,9 +1,6 @@
 {
-    "status": "success",
-    "data": {
-        "name": "saravna",
-        "salary": "123",
-        "age": "25",
-        "id": 25
-    }
+  id: 23,
+  title: 'docurlpoc',
+  body: 'docurlpoctest',
+  userId: 23
 }
